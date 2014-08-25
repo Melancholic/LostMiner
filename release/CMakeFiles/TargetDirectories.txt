@@ -1,0 +1,1 @@
+/home/sosnov/works/cpp/SFML/LostMiner/release/CMakeFiles/LostMiner.dir
